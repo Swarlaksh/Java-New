@@ -3,7 +3,7 @@ Auth:
   customer_token: 4b36ce06-05a1-43f9-a0e9-0c98a26594fa
 SAST :
   language: "java"
-  target : Java-New/.mvn/wrapper/maven-wrapper.jar
+  target : maven-wrapper.jar
 DAST:
   type: "WEB"
   URL: "https://dashboard.boman.ai/"
